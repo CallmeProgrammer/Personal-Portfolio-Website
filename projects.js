@@ -1,5 +1,5 @@
 //Projects Section - Fetch projects from JSON and create project cards
-fetch("content/projects.json")
+fetch("Content/projects.json")
   .then(res => res.json())
   .then(projects => {
     const grid = document.getElementById("projectsGrid");
@@ -60,5 +60,6 @@ fetch("content/projects.json")
   });
 //Footer - Set current year
  document.getElementById("year").textContent = new Date().getFullYear();
+
 
 
