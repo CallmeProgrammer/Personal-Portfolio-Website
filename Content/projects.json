@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Personal Portfolio Website - Hrithik's Portfolio",
+    "image": "Assets/PortfolioWebsiteProject ScreenShot.png",
+    "description": "A personal portfolio website built to showcase my projects, experience, and skills in a clean and structured way. The site focuses on responsive design, smooth navigation, and performance, with a modern UI that highlights my work and technical background clearly and effectively.",
+     "role": "Full Stack Developer ",
+    "tech": ["Html5", "CSS", "Bootstrap", "JavaScript"],
+    "preview": ""
+  },
+  {
+    "title": "Budget Beast Motors – Website for luxury Used Car Dealership",
+    "image": "Assets/BudgetBeastMotorsProject ScreenShot.png",
+    "description": "A modern car dealership website showcasing premium and exotic vehicles with detailed listings, smooth navigation, and responsive design. Built using pure HTML and CSS, focusing on clean layouts, usability, and a premium look and feel.",
+    "role": "Full Stack Developer ",
+    "tech": ["Html5", "CSS"],
+    "preview": "https://callmeprogrammer.github.io/BudgetBeastMotorsWebsite/"
+  },
+  {
+    "title": "RE:FLEX – Website for Luxury Resale Marketplace",
+    "image": "Assets/ReFlexProject ScreenShot.png",
+    "description": "A premium resale marketplace for verified luxury fashion items, focused on authenticity, transparency, and a smooth user experience. Features curated listings, condition-based pricing, and a minimal, responsive UI designed for seamless browsing and selling.",
+    "role": "Full Stack Developer ",
+    "tech": ["Html5", "CSS", "Bootstrap", "JavaScript"],
+    "preview": "https://callmeprogrammer.github.io/Re-FlexShoppingWebsite/"
+  }
+]
