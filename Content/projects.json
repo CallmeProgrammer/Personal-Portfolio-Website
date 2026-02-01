@@ -22,5 +22,14 @@
     "role": "Full Stack Developer ",
     "tech": ["Html5", "CSS", "Bootstrap", "JavaScript"],
     "preview": "https://callmeprogrammer.github.io/Re-FlexShoppingWebsite/"
+  },
+  {
+    "title": "MyChat – Real-Time Web Chat Application",
+  "image": "Assets/MyChatScreenshot.png",
+  "description": "A real-time one-to-one chat web application that enables instant communication across devices. Features a responsive mobile-first interface with slide-out user panel, message bubbles, keyboard-based message sending, and QR-enabled access. Designed for smooth, modern messaging experience.",
+  "role": "Full Stack Developer",
+  "tech": ["HTML5", "CSS3", "JavaScript", "Node.js", "Express.js", "Socket.IO", "Vercel", "Render"],
+  "preview": "https://chat-app-eight-peach-83.vercel.app/"
   }
 ]
+
